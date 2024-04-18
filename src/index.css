@@ -6,6 +6,11 @@ body{
     font-family: "Open Sans", sans-serif;
 }
 
+div[style*="background: #EEF2FF;"][style*="z-index: 999999999;"] {
+    display: none !important;
+}
+
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
