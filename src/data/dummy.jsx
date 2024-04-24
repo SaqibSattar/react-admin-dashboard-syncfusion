@@ -954,7 +954,7 @@ export const customersData = [
     StatusBg: '#8BE78B',
     Weeks: '40',
     Budget: '$2.4k',
-    Location: 'India',
+    Location: 'Pakistan',
   },
   {
     CustomerID: 1002,
@@ -968,7 +968,7 @@ export const customersData = [
     StatusBg: '#8BE78B',
     Weeks: '11',
     Budget: '$3.9k',
-    Location: 'India',
+    Location: 'Pakistan',
   },
   {
     CustomerID: 1003,
@@ -1019,7 +1019,7 @@ export const customersData = [
     StatusBg: '#8BE78B',
     Weeks: '40',
     Budget: '$2.4k',
-    Location: 'India',
+    Location: 'Pakistan',
   },
   {
     CustomerID: 1007,
@@ -1033,7 +1033,7 @@ export const customersData = [
     StatusBg: '#8BE78B',
     Weeks: '11',
     Budget: '$3.9k',
-    Location: 'India',
+    Location: 'Pakistan',
   },
   {
     CustomerID: 1008,
@@ -1084,7 +1084,7 @@ export const customersData = [
     StatusBg: '#8BE78B',
     Weeks: '40',
     Budget: '$2.4k',
-    Location: 'India',
+    Location: 'Pakistan',
   },
   {
     CustomerID: 1012,
@@ -1098,7 +1098,7 @@ export const customersData = [
     StatusBg: '#8BE78B',
     Weeks: '11',
     Budget: '$3.9k',
-    Location: 'India',
+    Location: 'Pakistan',
   },
   {
     CustomerID: 1013,
@@ -1149,7 +1149,7 @@ export const customersData = [
     StatusBg: '#8BE78B',
     Weeks: '40',
     Budget: '$2.4k',
-    Location: 'India',
+    Location: 'Pakistan',
   },
   {
     CustomerID: 1017,
@@ -1163,7 +1163,7 @@ export const customersData = [
     StatusBg: '#8BE78B',
     Weeks: '11',
     Budget: '$3.9k',
-    Location: 'India',
+    Location: 'Pakistan',
   },
   {
     CustomerID: 1018,
@@ -1214,7 +1214,7 @@ export const customersData = [
     StatusBg: '#8BE78B',
     Weeks: '40',
     Budget: '$2.4k',
-    Location: 'India',
+    Location: 'Pakistan',
   },
   {
     CustomerID: 1022,
@@ -1228,7 +1228,7 @@ export const customersData = [
     StatusBg: '#8BE78B',
     Weeks: '11',
     Budget: '$3.9k',
-    Location: 'India',
+    Location: 'Pakistan',
   },
   {
     CustomerID: 1023,
@@ -1279,7 +1279,7 @@ export const customersData = [
     StatusBg: '#8BE78B',
     Weeks: '40',
     Budget: '$2.4k',
-    Location: 'India',
+    Location: 'Pakistan',
   },
   {
     CustomerID: 1027,
@@ -1293,7 +1293,7 @@ export const customersData = [
     StatusBg: '#8BE78B',
     Weeks: '11',
     Budget: '$3.9k',
-    Location: 'India',
+    Location: 'Pakistan',
   },
   {
     CustomerID: 1028,
@@ -1344,7 +1344,7 @@ export const customersData = [
     StatusBg: '#8BE78B',
     Weeks: '40',
     Budget: '$2.4k',
-    Location: 'India',
+    Location: 'Pakistan',
   },
   {
     CustomerID: 1032,
@@ -1358,7 +1358,7 @@ export const customersData = [
     StatusBg: '#8BE78B',
     Weeks: '11',
     Budget: '$3.9k',
-    Location: 'India',
+    Location: 'Pakistan',
   },
   {
     CustomerID: 1033,
@@ -1409,7 +1409,7 @@ export const customersData = [
     StatusBg: '#8BE78B',
     Weeks: '40',
     Budget: '$2.4k',
-    Location: 'India',
+    Location: 'Pakistan',
   },
   {
     CustomerID: 1037,
@@ -1423,7 +1423,7 @@ export const customersData = [
     StatusBg: '#8BE78B',
     Weeks: '11',
     Budget: '$3.9k',
-    Location: 'India',
+    Location: 'Pakistan',
   },
   {
     CustomerID: 1038,
@@ -2989,7 +2989,7 @@ export const lineCustomSeries = [
     dataSource: lineChartData[2],
     xName: 'x',
     yName: 'y',
-    name: 'India',
+    name: 'Pakistan',
     width: '2',
     marker: { visible: true, width: 10, height: 10 },
     type: 'Line',
