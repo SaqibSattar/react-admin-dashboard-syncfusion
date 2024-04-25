@@ -27,7 +27,6 @@ import './App.css'
 import { useStateContext } from './contexts/ContextProvider'
 
 const App = () => {
-  console.log(useStateContext())
   const {
     setCurrentColor,
     setCurrentMode,
